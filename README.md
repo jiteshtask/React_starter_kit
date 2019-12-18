@@ -1,5 +1,5 @@
 # React_starter_kit
-# Installation :-
+# Installation
 clone this application within your local machine and then type the following.
 
 npm install
